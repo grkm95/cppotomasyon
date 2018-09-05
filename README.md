@@ -1,7 +1,7 @@
 # cppotomasyon
 <center>C++ Matematik-Bilgisayar bölümü için yapılmış bir otomasyon.
 
-<a href="https://github.com/grkm95/cppotomasyon.git">Download This Project</a>
+<a href="https://github.com/grkm95/cppotomasyon/archive/master.zip">Download This Project</a>
 
   <p>LinkedIn : www.linkedin.com/in/gorkemaslan/</p>
 <br/>
